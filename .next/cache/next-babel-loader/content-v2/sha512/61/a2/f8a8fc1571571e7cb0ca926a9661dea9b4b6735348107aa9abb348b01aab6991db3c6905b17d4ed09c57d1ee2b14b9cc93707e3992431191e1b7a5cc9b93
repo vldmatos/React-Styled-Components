@@ -1,0 +1,1 @@
+{"ast":null,"code":"const theme = {\n  color: {\n    background: '#121214',\n    text: '#e1e1e8',\n    primary: '#BBFFFF'\n  }\n};\nexport default theme;","map":null,"metadata":{},"sourceType":"module"}
